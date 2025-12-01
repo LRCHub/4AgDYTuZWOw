@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "Gangnam Style",
+  "base_artist": "PSY",
+  "createdAt": "2025-12-01T12:39:34.765219Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Gangnam Style (강남스타일)",
+      "artist": "Psy",
+      "has_synced": true,
+      "path": "select/01_Gangnam_Style_(강남스타일)_Psy.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Gangnam Style",
+      "artist": "Psy",
+      "has_synced": true,
+      "path": "select/02_Gangnam_Style_Psy.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Gangnam Style",
+      "artist": "PSY",
+      "has_synced": true,
+      "path": "select/03_Gangnam_Style_PSY.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Gangnam Style",
+      "artist": "PSY",
+      "has_synced": true,
+      "path": "select/04_Gangnam_Style_PSY.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Gangnam Style (강남스타일)",
+      "artist": "Psy",
+      "has_synced": true,
+      "path": "select/05_Gangnam_Style_(강남스타일)_Psy.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Gangnam Style (2012)",
+      "artist": "Psy",
+      "has_synced": true,
+      "path": "select/06_Gangnam_Style_(2012)_Psy.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Gangnam Style",
+      "artist": "PSY",
+      "has_synced": true,
+      "path": "select/07_Gangnam_Style_PSY.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "GANGNAM STYLE",
+      "artist": "PSY",
+      "has_synced": false,
+      "path": "select/pl_01_GANGNAM_STYLE_PSY.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Gangnam Style",
+      "artist": "PSY",
+      "has_synced": false,
+      "path": "select/pl_02_Gangnam_Style_PSY.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Gangnam Style",
+      "artist": "PSY",
+      "has_synced": false,
+      "path": "select/pl_03_Gangnam_Style_PSY.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "Gangnam Style (Non-Stop Mix Ver.)",
+      "artist": "PSY",
+      "has_synced": false,
+      "path": "select/pl_04_Gangnam_Style_(Non-Stop_Mix_Ver.)_PSY.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "Gangnam Style (강남스타일)",
+      "artist": "PSY",
+      "has_synced": false,
+      "path": "select/pl_05_Gangnam_Style_(강남스타일)_PSY.txt"
+    }
+  ]
+}
